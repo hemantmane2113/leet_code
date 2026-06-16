@@ -1,5 +1,4 @@
-
-# LeetCode_weekly contest Solutions
+# LeetCode Solutions
 
 This repository contains my solutions to various LeetCode problems, including Weekly and Biweekly Contest problems.
 
